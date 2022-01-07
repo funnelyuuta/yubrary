@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "yubrary"
-version = "0.1.1"
+version = "0.1.2"
 description = "yuuta_library"
 authors = ["YAMASHITA Yuta <proyuuta0618188188@gmail.com>"]
 license = "MIT"
